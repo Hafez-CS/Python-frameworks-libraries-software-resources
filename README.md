@@ -1,5 +1,7 @@
 # Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+![Monty Python](https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
+
 An opinionated list of awesome Python frameworks, libraries, software and resources.
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
